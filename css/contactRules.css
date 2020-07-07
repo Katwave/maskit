@@ -1,0 +1,8 @@
+
+/* 440px height */
+
+@media screen and (max-height: 440px){
+    .aboutInfoContainer{
+        height: 100%;
+    }
+}
