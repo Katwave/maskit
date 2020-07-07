@@ -1,0 +1,174 @@
+/* CSS Rules */
+
+/* 1330px width */
+
+@media screen and (max-width: 1330px){
+    .footer{
+        top: 160%;
+    }
+}
+
+
+
+
+
+/* 900px width */
+
+@media screen and (max-width: 900px){
+
+    .aboutContainer{
+        width: 80%;
+    }
+    .aboutInfoContainer{
+        position: absolute;
+        left: 10%;
+        width: 80%;
+        margin-left: 0px;
+        height: 60%;
+    }
+    .picContainer{
+        width: 100%;
+    }
+}
+
+
+
+
+
+/* 670px width */
+
+@media screen and (max-width: 670px){
+    .footer{
+        left: 0;
+    }
+
+    .aboutContainer{
+        width: 100%;
+    }
+}
+
+
+
+
+
+
+/* 500px width */
+
+@media screen and (max-width: 500px){
+    .servicesInfoHeader h1{
+        font-size: 20px;
+    }
+    .maskTitle h3{
+        font-size: 18px;
+    }
+}
+
+
+
+
+
+/* 460px width */
+
+@media screen and (max-width: 460px){
+    .aboutInfoContainer{
+        width: 100%;
+        left: 0;
+    }
+}
+
+
+
+
+
+/* 380px width */
+
+@media screen and (max-width: 380px){
+    .headerContainer h1{
+        font-size: 36px;
+    }
+}
+
+
+
+
+
+/* 830px height */
+
+@media screen and (max-height: 830px){
+    .aboutInfoContainer{
+        height: 60%;
+    }
+}
+
+
+
+
+
+/* 760px height */
+
+@media screen and (max-height: 760px) and (max-width: 2000px){
+    .footer{
+        bottom: -200%;
+    }
+}
+
+
+
+
+
+
+/* 650px height */
+
+@media screen and (max-height: 650px){
+    .aboutInfoContainer{
+        height: 80%;
+    }
+}
+
+
+
+
+
+/* 490px height */
+
+@media screen and (max-height: 490px){
+    .aboutInfoContainer{
+        width: 100%;
+        left: 0;
+    }
+    .aboutInfo{
+        height: 95%;
+    }
+}
+
+
+
+
+
+/* 490px height */
+
+@media screen and (max-height: 490px){
+    .aboutInfoContainer{
+        width: 100%;
+        left: 0;
+    }
+    .aboutInfo{
+        height: 95%;
+    }
+}
+
+
+
+
+
+/* 400px height */
+
+@media screen and (max-height: 400px){
+    .aboutInfoContainer{
+        height: 100%;
+    }
+    .aboutInfo{
+        height: 95%;
+    }
+}
+
